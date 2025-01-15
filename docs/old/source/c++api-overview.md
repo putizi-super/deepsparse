@@ -220,4 +220,4 @@ Call engine execute() with the collection of input tensors. During the execute()
 
 The output tensors’ data members can then be read to extract values and results.
 
-For a detailed example of creating, loading, and running an engine, see the code in `deepsparse_api_demo/src/demo.cpp`
+For a detailed example of creating, loading, and running an engine, see the code in `deepsparse_api_demo/src/demo`
